@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 .c9/
+=======
+.DS_Store
+.svn
+log/*.log
+tmp/**
+node_modules/
+.sass-cache
+>>>>>>> 6565ba016807ba5c6c44efde5ce40613ed39c845
